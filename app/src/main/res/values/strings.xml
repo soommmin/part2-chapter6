@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">part2-chapter6</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="fcm_server_key">AAAAlrpPgLA:APA91bGJX3qz-LopFjVbCVL5Jzw9QnjtX_B1xncy7fNynfRkjVJpT9w84H3k6qhNTQm7qWHveWaOrw_V9LKhVv7Meb7FHoKKG68_hZynvzAu0Z9-DdXuCsArAPeid-El-HCospcQcllw\n</string>
 </resources>

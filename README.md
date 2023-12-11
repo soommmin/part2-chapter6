@@ -2,7 +2,6 @@
 
 ## 채팅앱
 
-<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/2c1d7eec-5550-483e-a9aa-34033e4e38e2" width="200" height="400"/>
 <img src="https://github.com/soommmin/part2-chapter6/assets/150005268/5be01e09-c12d-4ab9-9966-9ff9139168c8" width="200" height="400"/>
 <img src="https://github.com/soommmin/part2-chapter6/assets/150005268/5e18aa19-cc19-4549-bed2-e7fa96912318" width="200" height="400"/>
 <img src="https://github.com/soommmin/part2-chapter6/assets/150005268/77d0d47a-50ec-45cd-8539-876981716dab" width="200" height="400"/>
